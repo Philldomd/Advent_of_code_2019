@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Day 1">
+      <UniqueIdentifier>{10d4a68f-6e8c-4c84-b41c-98b5e85e605a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Day 1">
+      <UniqueIdentifier>{3116e12c-aa32-4f08-a228-e866827cacb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Day 2">
+      <UniqueIdentifier>{97c2009d-25da-4b38-81be-2c126c379872}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Day 2">
+      <UniqueIdentifier>{9e49b432-0495-4db9-91c5-0953d76aad93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Day 3">
+      <UniqueIdentifier>{1a4ed7ad-d73a-4f93-a820-4b2ddb9cc22d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Day 3">
+      <UniqueIdentifier>{5651190f-451c-43f9-9716-d45770b77ba7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Day 4">
+      <UniqueIdentifier>{4f1c859d-9761-406b-ba6e-97400b4ea558}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Day 4">
+      <UniqueIdentifier>{6e9bd9bb-eafa-4880-a736-7efeddab1175}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Day 5">
+      <UniqueIdentifier>{5bc21be4-301f-4c2e-b7c6-b58f6f7db916}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Day 5">
+      <UniqueIdentifier>{31a6e531-ebe9-4124-8705-079100e77bca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Day 6">
+      <UniqueIdentifier>{a818d69f-ca15-4705-b7ac-15528c54fede}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Day 6">
+      <UniqueIdentifier>{c7908467-ed64-4582-a450-24acba6aa102}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Day 7">
+      <UniqueIdentifier>{3c829286-3ed6-4fa7-9fb2-88732966816d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Day 7">
+      <UniqueIdentifier>{be843f08-86c3-4c3c-834b-d4d7309de8c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Adventure_of_code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dec_1.1.cpp">
+      <Filter>Source Files\Day 1</Filter>
+    </ClCompile>
+    <ClCompile Include="dec_1.2.cpp">
+      <Filter>Source Files\Day 1</Filter>
+    </ClCompile>
+    <ClCompile Include="dec_3.1.cpp">
+      <Filter>Source Files\Day 3</Filter>
+    </ClCompile>
+    <ClCompile Include="dec_4.cpp">
+      <Filter>Source Files\Day 4</Filter>
+    </ClCompile>
+    <ClCompile Include="dec_2.1.cpp">
+      <Filter>Source Files\Day 2</Filter>
+    </ClCompile>
+    <ClCompile Include="dec_5.cpp">
+      <Filter>Source Files\Day 5</Filter>
+    </ClCompile>
+    <ClCompile Include="dec_6.cpp">
+      <Filter>Source Files\Day 6</Filter>
+    </ClCompile>
+    <ClCompile Include="dec_7.cpp">
+      <Filter>Source Files\Day 7</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dec_1.1.h">
+      <Filter>Header Files\Day 1</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_1.2.h">
+      <Filter>Header Files\Day 1</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_2.1.h">
+      <Filter>Header Files\Day 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Adventure_of_code.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_3.1.h">
+      <Filter>Header Files\Day 3</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_4.h">
+      <Filter>Header Files\Day 4</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_5.h">
+      <Filter>Header Files\Day 5</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_6.h">
+      <Filter>Header Files\Day 6</Filter>
+    </ClInclude>
+    <ClInclude Include="dec_7.h">
+      <Filter>Header Files\Day 7</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="dec_1_input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="dec_2_input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="dec_3_input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="dec_4_input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="dec_5_input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="dec_6_input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="dec_7_input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
